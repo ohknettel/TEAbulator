@@ -1,0 +1,9 @@
+cabarchive==0.2.4
+cx_Freeze==8.3.0
+cx_Logging==3.2.1
+filelock==3.18.0
+lief==0.16.5
+packaging==25.0
+polars==1.31.0
+setuptools==80.4.0
+striprtf==0.0.29
